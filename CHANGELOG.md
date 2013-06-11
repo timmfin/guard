@@ -1,6 +1,7 @@
 ## Master
 
 - [#443][] Escape `notify-send` arguments.  ([@netzpirat][])
+- [][] Allow multiple watch directories.  ([@timmfin][])
 
 ## 1.8.0 - 20 April, 2013
 
@@ -46,7 +47,7 @@
 - [#386][] Replace Pry's reset command. ([@envygeeks][])
 
 ### Bug fixes
-
+t
 - [#389][] Fix `list` and `show` commands. ([@netzpirat][])
 - [#387][] Load the users defined guardrc file. ([@envygeeks][])
 
