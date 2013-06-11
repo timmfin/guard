@@ -1,7 +1,7 @@
 ## Master
 
 - [#443][] Escape `notify-send` arguments.  ([@netzpirat][])
-- [][] Allow multiple watch directories.  ([@timmfin][])
+- [#450][] Allow multiple watch directories.  ([@timmfin][])
 
 ## 1.8.0 - 20 April, 2013
 
